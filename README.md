@@ -8,4 +8,7 @@ At a later stage I will keep adding AI components to let the agents perform bett
 __Make sure to check out the GIF's of the bots in action!__
 
 
-<img src="https://raw.githubusercontent.com/LeonWolber/Simple_Game_Bots/blob/master/agar_bot/ezgif.com-gif-maker.gif" width="600px">
+<img src="https://github.com/LeonWolber/Simple_Game_Bots/blob/master/agar_bot/agar_plays.gif" width="600px">
+
+
+![Hello](https://github.com/LeonWolber/Simple_Game_Bots/blob/master/agar_bot/agar_plays.gif)
